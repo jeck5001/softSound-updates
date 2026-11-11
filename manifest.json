@@ -1,21 +1,21 @@
 {
-  "version_code": 24,
-  "version_name": "0.0.24",
-  "update_description": "修复自动续播并完成在线更新仓库迁移，优化备用清单地址",
-  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.24/app-universal-release.apk",
-  "sha256": "1448b0a3ee7b60904314fd56f9dfbd8e518f6c54540e94555220d46426855ba0",
+  "version_code": 25,
+  "version_name": "0.0.25",
+  "update_description": "优化播放页歌词的小屏与横屏布局，修复全屏歌词不随播放滚动，支持点击跳转与手动浏览后恢复跟随",
+  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.25/app-universal-release.apk",
+  "sha256": "0646df59af74d0538b1ec327fc547920b742d2717c55ede0bf5981bd07d25179",
   "abi_downloads": {
     "arm64-v8a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.24/app-arm64-v8a-release.apk",
-      "sha256": "1a126dcd5b13c45261911ddf9c0b2e1f8b25cb7fc83554b2415625543ced1197"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.25/app-arm64-v8a-release.apk",
+      "sha256": "aa054448ae97191cd2bee34e8ba7c5438462501b489850c134272bd2c0fdcdf4"
     },
     "armeabi-v7a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.24/app-armeabi-v7a-release.apk",
-      "sha256": "a552b8681fe9ec1de723ab6d133f12363cadf0ae942ef2191b5655278b5e3b5c"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.25/app-armeabi-v7a-release.apk",
+      "sha256": "5e2097d16e0e3ed2095349ba158eb871b3b7da3367ecd94808ca91c6f924b969"
     },
     "x86_64": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.24/app-x86_64-release.apk",
-      "sha256": "abc72fb06d064a425d2eddca201df2b74b204df920e0276489ec9f02fd6c368a"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.25/app-x86_64-release.apk",
+      "sha256": "e7db617c6b37a2ab6fd20a0efdb3ec6d4cc206685495a7a69a61c44db5810f11"
     }
   },
   "force_update": false,
