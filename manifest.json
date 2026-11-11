@@ -1,21 +1,21 @@
 {
-  "version_code": 22,
-  "version_name": "0.0.22",
-  "update_description": "修复听书章节与音乐队列结束后偶发无法自动续播的问题",
-  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.22/app-universal-release.apk",
-  "sha256": "510101abbdc0381c8c46f626649e4990bc8fcbc5335b4db521ef9ab9b8dc7ce7",
+  "version_code": 23,
+  "version_name": "0.0.23",
+  "update_description": "迁移在线更新源；修复听书和音乐结束后无法自动续播的问题",
+  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.23/app-universal-release.apk",
+  "sha256": "5e050d3eeba95fce77c39eb48fdc159271f33a9dc369ef152ca1a056e9dfb210",
   "abi_downloads": {
     "arm64-v8a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.22/app-arm64-v8a-release.apk",
-      "sha256": "f52d7a88d7aac5ce3c68a5ad848ed1163bcd58fb1c23a42f56fe5f7935f06ed6"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.23/app-arm64-v8a-release.apk",
+      "sha256": "44d9e690c1c9f87a6fe9c6f9c51cc09cf278b39c770b74905a901bbb700d7b40"
     },
     "armeabi-v7a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.22/app-armeabi-v7a-release.apk",
-      "sha256": "82f42281130f2dccd445754ad990604ab069fff0acae1266d41d6694a474b946"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.23/app-armeabi-v7a-release.apk",
+      "sha256": "f556ee8c9e7e309c102eadb41f3f109b2f1e39292b43afd0ea37071c20b68ca4"
     },
     "x86_64": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.22/app-x86_64-release.apk",
-      "sha256": "7cbb5914af1b70c6c4d9923c246d92e3bdfb81ef08b659b94fb3014a9edcfa89"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.23/app-x86_64-release.apk",
+      "sha256": "1d7f198b0a202050962e434cec8ec49961931be9ae646de1fcb95f2347f49b60"
     }
   },
   "force_update": false,
