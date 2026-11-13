@@ -1,21 +1,21 @@
 {
-  "version_code": 26,
-  "version_name": "0.0.26",
-  "update_description": "保留音乐列表队列并逐曲解析，修复历史恢复、歌手封面错位与歌单首播耗时问题",
-  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.26/app-universal-release.apk",
-  "sha256": "d5a7c0cd51776a47681f45d56fba41aa56968496ccf960ef97a189715564ba76",
+  "version_code": 27,
+  "version_name": "0.0.27",
+  "update_description": "修复歌单能搜到但详情无歌曲、锁屏播放进度与时长不更新；新增顺序、列表循环、单曲循环和随机播放，改进音乐历史与离线恢复",
+  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-universal-release.apk",
+  "sha256": "364899156c742481b4e5b0fe779516923be8203be2bca9895e575375a687ea5e",
   "abi_downloads": {
     "arm64-v8a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.26/app-arm64-v8a-release.apk",
-      "sha256": "189761fc2a307c69e68d10997f8c8dec79a47f30a3164b02f5ed32e22870921e"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-arm64-v8a-release.apk",
+      "sha256": "28a4a73f6038672153a741c3a4ace0d7733ac5e31a1c0882fae9716f3b2c0128"
     },
     "armeabi-v7a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.26/app-armeabi-v7a-release.apk",
-      "sha256": "d96b3a73c9c7262a9ac13e89ea4eafb4cb4f9b72594f20b804870bb2f7c81cf4"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-armeabi-v7a-release.apk",
+      "sha256": "b01b172f11b37330812f8cc338044fcc51c283ec8f4c1a517e560042b4321ddf"
     },
     "x86_64": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.26/app-x86_64-release.apk",
-      "sha256": "3b5ac0b648af6a1cbf6da47f9247fd02aee0054974dff0d4b7370287a9cc15d2"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-x86_64-release.apk",
+      "sha256": "a067f9ee02bb195d9d862727c264a5dfaf08991a5ce54febebc31f68dd7361ef"
     }
   },
   "force_update": false,
