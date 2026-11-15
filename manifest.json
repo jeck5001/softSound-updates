@@ -1,21 +1,21 @@
 {
-  "version_code": 27,
-  "version_name": "0.0.27",
-  "update_description": "修复歌单能搜到但详情无歌曲、锁屏播放进度与时长不更新；新增顺序、列表循环、单曲循环和随机播放，改进音乐历史与离线恢复",
-  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-universal-release.apk",
-  "sha256": "364899156c742481b4e5b0fe779516923be8203be2bca9895e575375a687ea5e",
+  "version_code": 28,
+  "version_name": "0.0.28",
+  "update_description": "新增本地数据备份与合并恢复、书源配置持久化，下载页支持严格离线听书与音乐播放；缺失文件不回退网络，修正跨设备同步入口为本地备份",
+  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-universal-release.apk",
+  "sha256": "1f9d8938538ef8ede385f890da782cf9033580822f57cc6a0e33782af40de459",
   "abi_downloads": {
     "arm64-v8a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-arm64-v8a-release.apk",
-      "sha256": "28a4a73f6038672153a741c3a4ace0d7733ac5e31a1c0882fae9716f3b2c0128"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-arm64-v8a-release.apk",
+      "sha256": "dd3406e3da98b093cb1c6f0a0c429dc0f3937892274775890b05902df451c18c"
     },
     "armeabi-v7a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-armeabi-v7a-release.apk",
-      "sha256": "b01b172f11b37330812f8cc338044fcc51c283ec8f4c1a517e560042b4321ddf"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-armeabi-v7a-release.apk",
+      "sha256": "e169e0e31f61d165c89fccfea1b1efdd6c014c6e03dded4bcc59083464401625"
     },
     "x86_64": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.27/app-x86_64-release.apk",
-      "sha256": "a067f9ee02bb195d9d862727c264a5dfaf08991a5ce54febebc31f68dd7361ef"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-x86_64-release.apk",
+      "sha256": "1984e7ba26ce081ff0d04e5adfd7bf8a8d49fdb584a0869a51c1c62f2b2d1f18"
     }
   },
   "force_update": false,
