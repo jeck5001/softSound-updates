@@ -1,21 +1,21 @@
 {
-  "version_code": 28,
-  "version_name": "0.0.28",
-  "update_description": "新增本地数据备份与合并恢复、书源配置持久化，下载页支持严格离线听书与音乐播放；缺失文件不回退网络，修正跨设备同步入口为本地备份",
-  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-universal-release.apk",
-  "sha256": "1f9d8938538ef8ede385f890da782cf9033580822f57cc6a0e33782af40de459",
+  "version_code": 29,
+  "version_name": "0.0.29",
+  "update_description": "轻听·留声：声音手账与文字留声卡、雨夜沉浸听房、今日听单、有来源的听书搭子、真实声音足迹；备份v2兼容旧版，改进播放恢复与严格离线保护",
+  "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.29/app-universal-release.apk",
+  "sha256": "7efd6fa4f61a2cb7717b43be969dba11bc082bf4bc3aa181c7f891495bdf59f7",
   "abi_downloads": {
     "arm64-v8a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-arm64-v8a-release.apk",
-      "sha256": "dd3406e3da98b093cb1c6f0a0c429dc0f3937892274775890b05902df451c18c"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.29/app-arm64-v8a-release.apk",
+      "sha256": "352979536f24ad0eb4a8d3b546aa2af1ddd4908fc90cf051c2b5485ef0bee947"
     },
     "armeabi-v7a": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-armeabi-v7a-release.apk",
-      "sha256": "e169e0e31f61d165c89fccfea1b1efdd6c014c6e03dded4bcc59083464401625"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.29/app-armeabi-v7a-release.apk",
+      "sha256": "72976a4641805210c9b8542d6091500954b80fa9b0799a22b157f57bb53e189b"
     },
     "x86_64": {
-      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.28/app-x86_64-release.apk",
-      "sha256": "1984e7ba26ce081ff0d04e5adfd7bf8a8d49fdb584a0869a51c1c62f2b2d1f18"
+      "download_url": "https://github.com/jeck5001/softSound-updates/releases/download/v0.0.29/app-x86_64-release.apk",
+      "sha256": "a55006f4207bee08a6e08b0f9a394c598d34e56b70ac81da50eb0b52314db803"
     }
   },
   "force_update": false,
